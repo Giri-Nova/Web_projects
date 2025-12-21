@@ -48,7 +48,7 @@ nova-ai/
 ________________________________________
 Setup & Installation
 1. Clone the repository
-git clone  
+git clone https://github.com/Giri-Nova/Web_projects.git
 cd nova-ai 
 ________________________________________
 
@@ -117,7 +117,9 @@ Author
 Giri Manigandan M
 B.E Computer Science and Engineering
 Full Stack Developer | AI Enthusiast
-________________________________________Final Note
+________________________________________
+Final Note
 This project was built from scratch to understand real-world AI system design, API integration, and full-stack development practices.
+Virtual environment not included. Use requirements.txt to install dependencies
 ________________________________________
 
